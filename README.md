@@ -1,4 +1,4 @@
-### Hey — I'm dohgren.
+### Hey! I'm dohgren.
 
 I run **[quantcorp](https://quantcorp.dev)**, a small studio where I build the software I wish existed. Right now that's a BJJ training tracker and a notification plugin for Obsidian. Next up, whatever I can't stop thinking about.
 
